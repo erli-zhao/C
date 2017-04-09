@@ -1,0 +1,8 @@
+D:\Execise\Libraries\Libraries\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Execise\Libraries\Libraries\UnitTest\bin\Debug\UnitTest.exe.config
+D:\Execise\Libraries\Libraries\UnitTest\bin\Debug\UnitTest.exe
+D:\Execise\Libraries\Libraries\UnitTest\bin\Debug\UnitTest.pdb
+D:\Execise\Libraries\Libraries\UnitTest\bin\Debug\ClassLibrary.dll
+D:\Execise\Libraries\Libraries\UnitTest\bin\Debug\ClassLibrary.pdb
+D:\Execise\Libraries\Libraries\UnitTest\obj\Debug\UnitTest.exe
+D:\Execise\Libraries\Libraries\UnitTest\obj\Debug\UnitTest.pdb

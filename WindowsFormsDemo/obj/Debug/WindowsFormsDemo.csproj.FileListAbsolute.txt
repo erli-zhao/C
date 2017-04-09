@@ -1,0 +1,11 @@
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\bin\Debug\ClassLibrary.dll
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\bin\Debug\ClassLibrary.pdb
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csprojResolveAssemblyReference.cache
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form1.resources
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.Cache
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+D:\Execise\Libraries\Libraries\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
